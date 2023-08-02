@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=yuechenw213&color=lightgrey)
+
 ### Hi there 👋
 
 🌱 Weclome to yuechenw's Github page. I am a Siamese cat :cat: really enthusiastic about programming!
@@ -15,5 +17,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=yuechenw213&layout=compact&bg_color=35,FFCC70,C850C0&hide_border=true&title_color=FFFFFF&text_color=FFFFFF)
+
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=yuechenw213&theme=ambient-gradient)](https://git.io/streak-stats)
 
